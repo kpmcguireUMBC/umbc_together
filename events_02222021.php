@@ -108,7 +108,7 @@
                 Orianne Smith, Chair, and Mehrshad Devin, Vice Chair
                 <br><br>
                 
-                <a href="https://about.umbc.edu/files/2021/02/UMBC-Community-Connections-Spring-2021.pdf" target="_blank">More information about UMBC Community Connections (PDF)</a>
+                <a href="https://about.umbc.edu/files/2021/02/UMBC-Community-Connections-Spring-2021.pdf" target="_blank" class="button">More information about UMBC Community Connections (PDF)                    <span aria-label="(opens in new window)">↗</span></a>
                     
                 </p>
                 
