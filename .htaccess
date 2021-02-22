@@ -1,0 +1,6 @@
+Redirect /fall.html https://umbc.edu/events.html
+
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^umbc.edu/together [NC] 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
