@@ -84,13 +84,14 @@
                     <a href="https://www.youtube.com/user/UMBCtube/" class="icon brands fa-youtube" target="_blank"><span class="label">YouTube</span></a>
                 </li>
                 <li>
-                    <a href="https://my3.my.umbc.edu/groups/umbctogether" target="_blank" style="border-bottom: 0"><img alt="" src="images/myUMBC.png" style="height: 15px" /></a>
+                    <a href="https://my3.my.umbc.edu/groups/umbctogether" target="_blank" style="border-bottom: 0"><img alt="myUMBC" src="images/myUMBC.png" style="height: 15px" /></a>
                 </li>
             </ul>
         </nav>
         <!-- Main -->
         <div id="main">
             <section class="post">
+                <h1 class="sr-only">#UMBCTogether Events</h1>
                 <h2>Community Events</h2>
                 <p>There are so many ways to connect virtually with your fellow Retrievers! Use our myUMBC calendar to find information about social and educational events, and be sure to participate in UMBC’s virtual community meetings scheduled throughout the semester.</p>
                 <a href="https://my3.my.umbc.edu/groups/umbctogether/events" target="_blank" class="button">
@@ -99,6 +100,18 @@
                 </a>
                 <br />
                 <hr />
+                
+                <header>
+                    <h3>UMBC Community Connections</h3>                    
+                </header>
+                <p>The University Steering Committee is pleased to sponsor a series of virtual opportunities this spring to foster a sense of community and wellbeing in and amongst all students, faculty, and staff. We encourage you to join any of the meet-ups below to make new friends and form new connections!<br>
+                Orianne Smith, Chair, and Mehrshad Devin, Vice Chair
+                <br><br>
+                
+                <a href="https://about.umbc.edu/files/2021/02/UMBC-Community-Connections-Spring-2021.pdf" target="_blank">More information about UMBC Community Connections (PDF)</a>
+                    
+                </p>
+                
                 <h2>UMBC Community Meetings</h2>
                 <p>
                     <strong>What defines us is not whether crises happen, but how we respond to them.</strong>
@@ -108,16 +121,6 @@
                     Faculty, staff, and students are invited to share your stories and learn together in a series of virtual gatherings during the 2020-21 academic year.
                 </p>
                 
-                <header>
-                    <h3>UMBC Community Connections</h3>                    
-                </header>
-                    <p>The University Steering Committee is pleased to sponsor a series of virtual opportunities this spring to foster a sense of community and wellbeing in and amongst all students, faculty, and staff. We encourage you to join any of the meet-ups below to make new friends and form new connections!<br>
-                    Orianne Smith, Chair, and Mehrshad Devin, Vice Chair
-                    <br><br>
-                    
-                    <a href="https://about.umbc.edu/files/2021/02/UMBC-Community-Connections-Spring-2021.pdf" target="_blank">More information about UMBC Community Connections (PDF)</a>
-                        
-                    </p>
 
                 <header>
                     <h3>Upcoming Virtual Community Gatherings</h3>
